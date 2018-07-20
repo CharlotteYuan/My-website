@@ -1,0 +1,64 @@
+h3{
+	padding-top:30px;
+	padding-bottom:10px;
+	font-family:fantasy;
+	color:#1C6483;
+}
+
+.smaimg{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:150px;
+}
+
+.bigimg{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+	height:400px;
+}
+
+.bg-dark{
+	background: linear-gradient(to right, #FF4500 , #A0522D);
+}
+
+h1{
+	padding-top:40px;
+	padding-bottom:10px;
+	color:white;
+	font-family:cursive;
+}
+
+.nav-item{
+	font-family:fantasy;
+}
+
+p{
+	color:#7C91C3;
+	font-family:monospace;
+}
+
+li{
+	color:#7C91C3;
+	font-family:monospace;
+}
+
+.col-3{
+	padding-bottom:20px;
+}
+
+.navbar-brand{
+	font-family:fantasy;
+}
+
+a{
+	color:#BBEAD6;
+}
+
+.row1{
+    background-image: url("imges/C4.jpg");
+}
+
